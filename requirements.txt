@@ -1,6 +1,9 @@
 streamlit 
-transformers 
 torch 
 pdfplumber 
 python-docx 
 reportlab
+transformers>=4.45.0
+torch>=2.3.0
+sentencepiece
+accelerate
